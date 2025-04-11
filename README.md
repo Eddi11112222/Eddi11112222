@@ -36,6 +36,7 @@ Feel free to check out my projects, and if you want to collaborate, just shoot m
 
 🔗 **Connect with Me**
 - **GitHub**: https://github.com/Eddi11112222
+- **e-mail**: erik.thurmann@gmx.de
 
 ---
 
