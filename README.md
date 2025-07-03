@@ -22,11 +22,11 @@ Here's a little about me:
 
 👾 **Current Projects**
 1. **ChatGPU**, a GPU completly designed and the parts picket by ChatGPT.
+2. Another **GPU**, that you can build yourself (Open-Source).
 
 ⚡ **On the Horizon**
-- More releases of **VOID OS** with even creepier features.
-- Expanding my knowledge of **BLE** communication for IoT and security projects.
 - Building **ethical hacking** tools for penetration testing and network analysis.
+- Gpu Named: **ZeroGPU**
 
 ---
 
@@ -34,7 +34,7 @@ Feel free to check out my projects, and if you want to collaborate, just shoot m
 
 🔗 **Connect with Me**
 - **GitHub**: https://github.com/Eddi11112222
-- **e-mail**: erik.thurmann@gmx.de
+- **e-mail**: zerodayzone1111@gmail.com
 
 ---
 
