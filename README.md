@@ -21,9 +21,7 @@ Here's a little about me:
 - Having fun with cybersecurity and penetration testing
 
 👾 **Current Projects**
-1. **VOID OS – Nightmare Edition** – A fake-malware prank OS designed to confuse and scare (in the best way possible).
-2. **Flipper Zero DIY Project** – Turning my Flipper Zero into an all-in-one hacking tool with Bluetooth and sensor integration.
-3. **WIFI Hacking & Repeater Tools** – Creating Wi-Fi tools to play with networks and experiment with ethical hacking.
+1. **ChatGPU**, a GPU completly designed and the parts picket by ChatGPT.
 
 ⚡ **On the Horizon**
 - More releases of **VOID OS** with even creepier features.
