@@ -9,7 +9,7 @@ Here's a little about me:
 🔧 **Skills & Interests**
 - **Languages**: Python, C, C++, JavaScript, HTML/CSS
 - **Tools**: Arduino, ESP32, Raspberry Pi, Wi-Fi Hacking, BLE, GPIO
-- **Projects**: Prankware, DIY electronics, ethical hacking, IoT, automation
+- **Projects**: Prankware, DIY electronics, ethical hacking, IoT, automation, GPUs
 - **Security**: Ethical Hacking (Wi-Fi Penetration Testing), OSINT, Hardware Hacking
 - **Frameworks**: Tkinter, PyQt, Flask, Node.js
 
