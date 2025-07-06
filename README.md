@@ -12,6 +12,7 @@ Here's a little about me:
 - **Projects**: Prankware, DIY electronics, ethical hacking, IoT, automation, GPUs
 - **Security**: Ethical Hacking (Wi-Fi Penetration Testing), OSINT, Hardware Hacking
 - **Frameworks**: Tkinter, PyQt, Flask, Node.js
+- **I’m looking to collaborate**: on making/coding GPUs, making circuit board´s, coding software
 
 🎮 **Hobbies**
 - Creating prank tools (don't worry, they’re safe, I swear!)
@@ -35,6 +36,7 @@ Feel free to check out my projects, and if you want to collaborate, just shoot m
 🔗 **Connect with Me**
 - **GitHub**: https://github.com/Eddi11112222
 - **e-mail**: zerodayzone1111@gmail.com
+- **Discord**: @zeroday0624
 
 ---
 
